@@ -96,6 +96,9 @@ ul {
 .hero-btn:hover {
   background: #404bbf;
 }
+.hero-btn:focus {
+  background: #404bbf;
+}
 
 /* /-------features---------/ */
 
