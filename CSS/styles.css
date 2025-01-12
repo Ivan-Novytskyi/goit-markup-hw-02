@@ -67,7 +67,8 @@ ul {
   color: #434455;
 }
 
-.address-menu-item:hover {
+.address-menu-item:hover,
+.address-menu-item:focus {
   color: #404bbf;
 }
 
