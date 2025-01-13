@@ -136,7 +136,6 @@ ul {
 }
 .team-title {
   text-transform: capitalize;
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -164,7 +163,6 @@ ul {
 .portfolio {
 }
 .portfolio-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
