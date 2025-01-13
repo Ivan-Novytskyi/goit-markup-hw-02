@@ -115,7 +115,7 @@ ul {
 .features-item {
 }
 
-.features-subtitle {
+.subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -151,14 +151,7 @@ ul {
 }
 .team-image {
 }
-.team-subtitle {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
+
 .team-text {
   font-size: 16px;
   line-height: 1.5;
@@ -186,13 +179,7 @@ ul {
 }
 .portfolio-image {
 }
-.portfolio-subtitle {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
+
 .portfolio-text {
   font-size: 16px;
   line-height: 1.5;
